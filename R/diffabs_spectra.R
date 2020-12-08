@@ -9,7 +9,6 @@
 #' @return
 #' @export
 #'
-#' @examples
 
 diffabs_spectra <- function(
   file,
