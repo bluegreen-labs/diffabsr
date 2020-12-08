@@ -60,7 +60,6 @@ channel_positions <- list(
 Read in the data (spectra), convert to element counts (density) and finally convert into a tidy format for plotting.
 
 ```{r}
-library(tidyverse)
 library(diffabsr)
 
 # read in data, and process
