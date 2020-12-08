@@ -1,0 +1,24 @@
+Package: diffabsr
+Type: Package
+Title: SOLEIL DIFFABS beamline data management package
+Version: 0.1.0
+Author: Koen Hufkens
+Maintainer: Koen Hufkens <koen.hufkens@gmail.com>
+Description: Converts data from the DIFFABS beamline at the SOLEIL
+    synchrotron into an R compatible format. In addition it provides
+    functions to convert the raw spectra to elemental counts
+    and or concentrations. Data is returned nested lists of data frames or
+    tidy data frames.
+License: AGPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Imports:
+    caTools,
+    hdf5r
+Suggests:
+    ggplot2,
+    dplyr,
+    knitr,
+    testthat
+VignetteBuilder: knitr
