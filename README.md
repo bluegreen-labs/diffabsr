@@ -1,6 +1,6 @@
 # diffabsr <img src='man/figures/logo.png' align="right" height="138.5" />
 
-[![Build Status](https://travis-ci.com/bluegreen-labs/diffabsr.svg?branch=master)](https://travis-ci.com/bluegreen-labs/diffabsr)
+[![Build Status](https://travis-ci.com/bluegreen-labs/diffabsr.svg)](https://travis-ci.com/bluegreen-labs/diffabsr)
 [![codecov](https://codecov.io/gh/bluegreen-labs/diffabsr/branch/master/graph/badge.svg)](https://codecov.io/gh/bluegreen-labs/diffabsr)
 [![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/diffabsr)](https://cran.r-project.org/package=diffabsr)
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
