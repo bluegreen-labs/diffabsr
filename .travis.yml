@@ -3,6 +3,9 @@ sudo: required
 cache: packages
 warnings_are_errors: false
 
+before_install:
+  - sudo apt-get install -y libhdf5-dev
+
 r:
   - release
   - devel
