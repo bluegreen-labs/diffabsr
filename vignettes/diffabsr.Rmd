@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 # read in libraries
 library(hdf5r)
 library(caTools)
-library(tidyverse)
+library(ggplot2)
 library(diffabsr)
 ```
 
