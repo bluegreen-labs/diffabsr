@@ -2,3 +2,4 @@
 
 * first release of diffabsr
 * supports time series and elemental analysis
+* demo code
