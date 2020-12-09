@@ -12,7 +12,7 @@ Converts data from the [DIFFABS beamline](https://www.synchrotron-soleil.fr/en/b
 
 You can cite this package like this "we processed the data using the R package `diffabsr` (Hufkens 2020)". Here is the full bibliographic reference to include in your reference list (don't forget to update the all caps fields for VERSION, MONTH and YEAR):
 
-> Hufkens, K. (2020). diffabsr: the SOLEIL DIFFABS beamline data management package. (VERSION). Zenodo. http://doi.org/xxx. Last accessed MONTH YEAR
+> Hufkens, K., Regeur S. (2020). diffabsr: the SOLEIL DIFFABS beamline data management package. (VERSION). Zenodo. http://doi.org/xxx. Last accessed MONTH YEAR
 
 ## Installation
 
@@ -38,7 +38,7 @@ library("diffabsr")
 
 ## Citation
 
-Koen Hufkens. (2020, December 20). bluegreen-labs/diffabsr: diffabsr (Version v0.1.0). Zenodo. [http://doi.org/xxx](http://doi.org/xxx).
+Koen Hufkens & Solenn Regeur. (2020, December 20). bluegreen-labs/diffabsr: diffabsr (Version v0.1.0). Zenodo. [http://doi.org/xxx](http://doi.org/xxx).
 
 ## Acknowledgements
 
