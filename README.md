@@ -38,9 +38,9 @@ library("diffabsr")
 
 ## Citation
 
-Koen Hufkens. (2020, December 20). bluegreen-labs/diffabsr: diffabsr (Version v0.1.0). Zenodo. [http://doi.org/10.5281/zenodo.xxx](http://doi.org/xxx).
+Koen Hufkens. (2020, December 20). bluegreen-labs/diffabsr: diffabsr (Version v0.1.0). Zenodo. [http://doi.org/xxx](http://doi.org/xxx).
 
 ## Acknowledgements
 
-This project was supported the Marie Skłodowska-Curie Action (H2020 grant 797668) and the SOLEIL XYZ grant.
+This project was supported the Marie Skłodowska-Curie Action (H2020 grant 797668) and the SOLEIL user support grant 20191271.
 
