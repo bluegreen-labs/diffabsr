@@ -6,7 +6,7 @@
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![](https://cranlogs.r-pkg.org/badges/grand-total/diffabsr)](https://cran.r-project.org/package=diffabsr)
 
-Converts data from the [DIFFABS beamline](https://www.synchrotron-soleil.fr/en/beamlines/diffabs) at the [SOLEIL synchrotron](https://www.synchrotron-soleil.fr/) into an R compatible format. In addition it provides functions to convert the raw spectra to elemental counts and or concentrations. Data is returned nested lists of data frames or tidy data frames.
+Converts data from the [DiffAbs beamline](https://www.synchrotron-soleil.fr/en/beamlines/diffabs) at the [SOLEIL synchrotron](https://www.synchrotron-soleil.fr/) into an R compatible format. In addition it provides functions to convert the raw spectra to elemental counts and or concentrations. Data is returned nested lists of data frames or tidy data frames.
 
 ## How to cite this package in your article
 
